@@ -20,7 +20,7 @@ snow
 -----------------------------------------*/
 .snow {
 	position: absolute;
-	background: #FFF;
+	background: #000000;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
